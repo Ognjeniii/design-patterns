@@ -12,3 +12,4 @@ C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\StructuralPatterns\obj\Deb
 C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.pdb
 C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.genruntimeconfig.cache
 C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\StructuralPatterns\obj\Debug\net8.0\ref\StructuralPatterns.dll
+C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.sourcelink.json

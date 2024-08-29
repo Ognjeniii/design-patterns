@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StructuralPatterns.Decorator
+namespace StructuralPatterns.Decorator.PizzaExample
 {
     public class MushroomDecorator : PizzaDecorator
     {

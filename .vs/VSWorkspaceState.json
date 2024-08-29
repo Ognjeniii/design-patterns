@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Patterns"
+    "\\StructuralPatterns",
+    "\\StructuralPatterns\\Decorator"
   ],
-  "SelectedNode": "\\Patterns\\Program.cs",
+  "SelectedNode": "\\StructuralPatterns\\Decorator",
   "PreviewInSolutionExplorer": false
 }

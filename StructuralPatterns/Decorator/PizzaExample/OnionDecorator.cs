@@ -4,22 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StructuralPatterns.Decorator
+namespace StructuralPatterns.Decorator.PizzaExample
 {
-    public class TomatoDecorator : PizzaDecorator
+    public class OnionDecorator : PizzaDecorator
     {
-        public TomatoDecorator(IPizza pizza) 
+        public OnionDecorator(IPizza pizza)
             : base(pizza) { }
         public override string GetPizzaType()
         {
             string type = base.GetPizzaType();
-            type += ", tomato";
+            type += ", onions";
             return type;
         }
 
         public override decimal Cost()
         {
-            return base.Cost() + 0.80M;
+            return base.Cost() + 0.45M;
         }
     }
 }
