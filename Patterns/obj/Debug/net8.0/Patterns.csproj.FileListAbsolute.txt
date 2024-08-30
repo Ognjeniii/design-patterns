@@ -1,0 +1,5 @@
+C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\Patterns\obj\Debug\net8.0\Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\Patterns\obj\Debug\net8.0\Patterns.AssemblyInfoInputs.cache
+C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\Patterns\obj\Debug\net8.0\Patterns.AssemblyInfo.cs
+C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\Patterns\obj\Debug\net8.0\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\Patterns\obj\Debug\net8.0\Patterns.sourcelink.json
