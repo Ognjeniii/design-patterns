@@ -7,7 +7,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patterns", "Patterns\Patter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructuralPatterns", "StructuralPatterns\StructuralPatterns.csproj", "{C33382BA-AC95-40AF-A0D6-DBF18365E9CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatterns", "CreationalPatterns\CreationalPatterns.csproj", "{C313EAA2-0E3D-4F1D-9736-7AF35A1E7193}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalPatterns", "CreationalPatterns\CreationalPatterns.csproj", "{C313EAA2-0E3D-4F1D-9736-7AF35A1E7193}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E1A3C1AD-EBC1-4CA3-94BD-5225A6895D2F}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatternsTests", "CreationalPatternsTests\CreationalPatternsTests.csproj", "{57ED6B32-E324-4586-9691-B92749EC5BF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +34,10 @@ Global
 		{C313EAA2-0E3D-4F1D-9736-7AF35A1E7193}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C313EAA2-0E3D-4F1D-9736-7AF35A1E7193}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C313EAA2-0E3D-4F1D-9736-7AF35A1E7193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57ED6B32-E324-4586-9691-B92749EC5BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57ED6B32-E324-4586-9691-B92749EC5BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57ED6B32-E324-4586-9691-B92749EC5BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57ED6B32-E324-4586-9691-B92749EC5BF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
