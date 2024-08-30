@@ -1,7 +1,0 @@
-C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\CreationalPatternsTest\bin\Debug\net8.0\CoverletSourceRootsMapping_CreationalPatternsTest
-C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\CreationalPatternsTest\obj\Debug\net8.0\CreationalPatternsTest.csproj.AssemblyReference.cache
-C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\CreationalPatternsTest\obj\Debug\net8.0\CreationalPatternsTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\CreationalPatternsTest\obj\Debug\net8.0\CreationalPatternsTest.AssemblyInfoInputs.cache
-C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\CreationalPatternsTest\obj\Debug\net8.0\CreationalPatternsTest.AssemblyInfo.cs
-C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\CreationalPatternsTest\obj\Debug\net8.0\CreationalPatternsTest.csproj.CoreCompileInputs.cache
-C:\Users\ognjeni\Desktop\Moj\Design patterns\Patterns\CreationalPatternsTest\obj\Debug\net8.0\CreationalPatternsTest.sourcelink.json
